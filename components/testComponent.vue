@@ -1,6 +1,6 @@
 <template>
   <div>
-    This is a test component.
+    This is a test component123.
   </div>
 </template>
 
